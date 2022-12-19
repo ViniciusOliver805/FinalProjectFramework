@@ -1,0 +1,5 @@
+npm run start:dev  roda o back
+ng serve -o  roda o front
+
+xampp pra rodar o mysql e fazer as tabela
+para entrar na databse é so liga o xampp e clica em admin
